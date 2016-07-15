@@ -16,3 +16,7 @@ Do not use these in your app! This is only to speed up automated Travis-CI build
 * **[libgpg-error](https://www.gnupg.org/(de)/related_software/libgpg-error/index.html)**: 1.21
 * **[libgcrypt](http://www.gnu.org/software/libgcrypt/)**: 1.6.5
 * **[libotr](https://otr.cypherpunks.ca)**: 4.1.1
+
+### Pods
+
+* For 3.2.3 (37) 5b8daea94239a1bc45e3f62529e737f213fdff42
