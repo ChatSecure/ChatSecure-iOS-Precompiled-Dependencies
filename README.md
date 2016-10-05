@@ -13,8 +13,8 @@ Do not use these in your app! This is only to speed up automated Travis-CI build
 
 ### OTRKit Dependencies
 
-* **[libgpg-error](https://www.gnupg.org/(de)/related_software/libgpg-error/index.html)**: 1.21
-* **[libgcrypt](http://www.gnu.org/software/libgcrypt/)**: 1.6.5
+* **[libgpg-error](https://www.gnupg.org/(de)/related_software/libgpg-error/index.html)**: 1.24
+* **[libgcrypt](http://www.gnu.org/software/libgcrypt/)**: 1.7.3
 * **[libotr](https://otr.cypherpunks.ca)**: 4.1.1
 
 ### Pods
