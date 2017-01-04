@@ -3,7 +3,7 @@ Do not use these in your app! This is only to speed up automated Travis-CI build
 
 ### CPAProxy Dependencies
 
-* **[Tor][tor]**: 0.2.8.9
+* **[Tor][tor]**: 0.2.9.8
 * **[libevent][libevent]**: 2.0.22-stable
 * **[OpenSSL][openssl]**: 1.0.2j
 
@@ -13,10 +13,10 @@ Do not use these in your app! This is only to speed up automated Travis-CI build
 
 ### OTRKit Dependencies
 
-* **[libgpg-error](https://www.gnupg.org/(de)/related_software/libgpg-error/index.html)**: 1.24
-* **[libgcrypt](http://www.gnu.org/software/libgcrypt/)**: 1.7.3
+* **[libgpg-error](https://www.gnupg.org/(de)/related_software/libgpg-error/index.html)**: 1.26
+* **[libgcrypt](http://www.gnu.org/software/libgcrypt/)**: 1.7.5
 * **[libotr](https://otr.cypherpunks.ca)**: 4.1.1
 
 ### Pods
 
-* For 3.3 (42) 72a12e3ece1dce79cdf788ab17b2016913a6ebe8
+4.0 (58) dafd61fec29b77ead8d8c3462a5aee2a8eb632c2
