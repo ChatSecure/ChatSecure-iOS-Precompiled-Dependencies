@@ -3,13 +3,15 @@ Do not use these in your app! This is only to speed up automated Travis-CI build
 
 ### CPAProxy Dependencies
 
-* **[Tor][tor]**: 0.2.9.8
-* **[libevent][libevent]**: 2.0.22-stable
-* **[OpenSSL][openssl]**: 1.0.2j
+* **[Tor][tor]**: 0.4.0.5
+* **[libevent][libevent]**: 2.1.10-stable
+* **[OpenSSL][openssl]**: 1.1.1c
+* **[LZMA][lzma]**: 5.2.4
 
 [tor]: https://www.torproject.org/
 [libevent]: http://libevent.org/
 [openssl]: https://www.openssl.org/
+[lzma]: https://tukaani.org/xz/
 
 ### OTRKit Dependencies
 
